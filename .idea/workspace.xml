@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a43e0ccd-3567-4f0e-b7bb-9405e3309ff0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabraoins/springbootstarter/topic/TopicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabraoins/springbootstarter/topic/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabraoins/springbootstarter/topic/TopicController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,23 +27,27 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="743" />
+          <entry key="properties" value="17" />
           <entry key="xml" value="282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="743" />
+          <entry key="Properties" value="17" />
           <entry key="XML" value="282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="5" />
+          <entry key="properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="5" />
+          <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -82,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/javabraoins/springbootstarter/topic/TopicController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="410">
@@ -98,6 +101,15 @@
                 <element signature="e#1116#1117#0" expanded="true" />
                 <element signature="e#1161#1162#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="1556" lean-forward="true" selection-start-line="1556" selection-end-line="1556" />
             </state>
           </provider>
         </entry>
@@ -153,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/main/java/io/javabraoins/springbootstarter/topic/Topic.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/javabraoins/springbootstarter/topic/TopicController.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/javabraoins/springbootstarter/topic/TopicService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -243,7 +256,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540932801822" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540933943524" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -293,12 +306,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540909379056</updated>
       <workItem from="1540909380490" duration="1974000" />
-      <workItem from="1540914494376" duration="4931000" />
+      <workItem from="1540914494376" duration="5482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7355000" />
+    <option name="totallyTimeSpent" value="7906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="979" extended-state="6" />
@@ -425,6 +438,13 @@
             <element signature="e#1116#1117#0" expanded="true" />
             <element signature="e#1161#1162#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="1556" lean-forward="true" selection-start-line="1556" selection-end-line="1556" />
         </state>
       </provider>
     </entry>
