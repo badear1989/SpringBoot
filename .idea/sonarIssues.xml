@@ -18,6 +18,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/io/javabraoins/springbootstarter/hello/HelloController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/io/javabraoins/springbootstarter/topic/Topic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/io/javabraoins/springbootstarter/topic/TopicController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
